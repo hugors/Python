@@ -1,5 +1,5 @@
 # Python
-Estudos e Scripts em Python
+Ciência de dados e IA
 Trabalho Projeto Integrado Pós-Graduação E2A
 
 Item 1 . Para realizarmos um projeto de mineração de dados, o primeiro é selecionar a base de dados e explorar dos dados desta base, no intuito de obtermos um entendimento inicial sobre o problema. Diante disto, utilize a biblioteca Pandas do Python para criar um Data Frame a partir da base de dados da dengue disponibilizada e exiba os 5 primeiros elementos deste conjunto usando o comando head().
